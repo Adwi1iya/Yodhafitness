@@ -9,7 +9,7 @@
 body{
   min-height: 100vh;
   width: 100%;
-  background: #009579;
+  background: #bb2b2b59;
 }
 .container{
   position: absolute;
@@ -18,7 +18,7 @@ body{
   transform: translate(-50%,-50%);
   max-width: 430px;
   width: 100%;
-  background: #fff;
+  background: #97040479;
   border-radius: 7px;
   box-shadow: 0 5px 10px rgba(0,0,0,0.3);
 }
@@ -58,15 +58,15 @@ body{
  }
 .form a{
   font-size: 16px;
-  color: #009579;
+  color: #38020257;
   text-decoration: none;
 }
 .form a:hover{
   text-decoration: underline;
 }
 .form input.button{
-  color: #fff;
-  background: #009579;
+  color: #0c00007e;
+  background: #7203035e;
   font-size: 1.2rem;
   font-weight: 500;
   letter-spacing: 1px;
@@ -75,14 +75,14 @@ body{
   transition: 0.4s;
 }
 .form input.button:hover{
-  background: #006653;
+  background: #bda520b7;
 }
 .signup{
   font-size: 17px;
   text-align: center;
 }
 .signup label{
-  color: #009579;
+  color: #23128694;
   cursor: pointer;
 }
 .signup label:hover{
